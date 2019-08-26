@@ -26,7 +26,10 @@
   >
   > ![image.png](https://upload-images.jianshu.io/upload_images/12014150-7df59c8b6d7eb548.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-  
 
 
-  
+## 设置Ubuntu支持中文
+
+- 右上角System Setting -> Language Support
+- ![image.png](https://upload-images.jianshu.io/upload_images/12014150-6ade421216c20740.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- 下载Chinese简体
